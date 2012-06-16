@@ -3,17 +3,19 @@
 A Node.js script to generate an Evite authenticity token that can be used for automatically authenticating users.
 
 ## Installation
-
-#### Install Node.js either of the following ways:
   
-#####
+### Use a pre-compiled installer for your operating system
 
-##### With the OSX package manager Homebrew
+  http://nodejs.org/
 
-  Installation
+### Use the package manager Homebrew (OSX only)
+
+  Install Homebrew
   
   <code>/usr/bin/ruby -e "$(/usr/bin/curl -fsSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"</code>
   
-  2. With the OSX package manager Homebrew
+  Install Node.js
+  
+  <code>brew install node</code>
 
     
