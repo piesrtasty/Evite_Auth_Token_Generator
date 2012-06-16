@@ -22,8 +22,8 @@ A Node.js script to generate an Evite authenticity token that can be used for au
 
 ## Quick Start
 
-  Specify an Evite username, password, and a desired expiration date for the token
+  Specify an Evite username, password, and a desired expiration date for the token inside the script.
   
-  Run the node script in a terminal
+  Run the node script in a terminal.
   
   <code>node evite_token_generator.js</code>
