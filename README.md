@@ -6,6 +6,8 @@ A Node.js script to generate an Evite authenticity token that can be used for au
   
 ### Use a pre-compiled installer for your operating system
 
+  These can be found at the official Node.js website
+
   http://nodejs.org/
 
 ### Use the package manager Homebrew (OSX only)
@@ -18,4 +20,10 @@ A Node.js script to generate an Evite authenticity token that can be used for au
   
   <code>brew install node</code>
 
-    
+## Quick Start
+
+  Specify an Evite username, password, and a desired expiration date for the token
+  
+  Run the node script in a terminal
+  
+  <code>node evite_token_generator.js</code>
