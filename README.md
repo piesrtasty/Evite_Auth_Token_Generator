@@ -1,8 +1,8 @@
-## Evite Authenticity Token Generator
+# Evite Authenticity Token Generator
 
 A Node.js script to generate an Evite authenticity token that can be used for automatically authenticating users.
 
-### Installation
+## Installation
 
 #### Install Node.js either of the following ways:
   
